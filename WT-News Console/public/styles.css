@@ -1,0 +1,35 @@
+.container{
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.content{
+	padding-top: 300px;
+	display: flex;
+	justify-content: space-around;
+}
+.container1{
+	background-image: url(news.jpg);
+	padding-bottom: 800px;
+}
+
+.btn1{	
+	opacity: 69%;
+	width: 200px;
+	height: 200px;
+	border-radius: 2em;
+}
+body{
+	background-color:#e7e7e7;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 16px;
+    text-align: right;
+    margin-bottom: -12px;
+    padding: 0px 20px 0px 0px;
+}
