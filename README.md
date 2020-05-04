@@ -17,6 +17,6 @@ $ npm install -g nodemon
 Step 2. Run node server
 
 ```sh
-$ nodemon
+$ nodemon app.js
 ```
 Step 3. Ready at port 8080!
